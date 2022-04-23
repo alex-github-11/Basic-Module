@@ -13,7 +13,8 @@
 
 ## 【基础模块-计算机语言python】
 
-## 【基础模块-计算机操作系统】
+## - [基础模块-计算机操作系统](https://github.com/alex-github-11/Operating-System)
+
 
 ## 【基础模块-计算机网络】
 
