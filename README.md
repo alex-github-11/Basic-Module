@@ -7,19 +7,18 @@
 
 
 # 目录
-## 【基础模块-计算机语言C】
+## - [基础模块-计算机语言C](https://github.com/alex-github-11/Basic-Module/blob/main/Note/%E8%AE%A1%E7%AE%97%E6%9C%BAC%E8%AF%AD%E8%A8%80.md)
 
-## 【基础模块-计算机语言C++】
+## - [基础模块-计算机语言C++](https://github.com/alex-github-11/Basic-Module/blob/main/Note/%E8%AE%A1%E7%AE%97%E6%9C%BAC%2B%2B%E8%AF%AD%E8%A8%80.md)
 
-## 【基础模块-计算机语言python】
+## - [基础模块-计算机语言python](https://github.com/alex-github-11/Basic-Module/blob/main/Note/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%AF%AD%E8%A8%80python.md)
 
-## - [基础模块-计算机操作系统](https://github.com/alex-github-11/Operating-System)
+## - [基础模块-计算机操作系统](https://github.com/alex-github-11/Basic-Module/blob/main/Note/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F.md)
 
+## - [基础模块-计算机网络](https://github.com/alex-github-11/Basic-Module/blob/main/Note/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C.md)
 
-## 【基础模块-计算机网络】
+## - [基础模块-计算机组成原理](https://github.com/alex-github-11/Basic-Module/blob/main/Note/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86.md)
 
-## 【基础模块-计算机组成原理】
+## - [基础模块-数据结构与算法](https://github.com/alex-github-11/Basic-Module/blob/main/Note/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95.md)
 
-## 【基础模块-数据结构与算法】
-
-## 【基础模块-计算机工具】
+## - [基础模块-计算机工具](https://github.com/alex-github-11/Basic-Module/blob/main/Note/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%B7%A5%E5%85%B7.md)
