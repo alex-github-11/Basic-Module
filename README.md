@@ -16,7 +16,7 @@
 ## - [基础模块-计算机操作系统](https://github.com/alex-github-11/Basic-Module/blob/main/Note/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F.md)
 - 《深入理解计算机操作系统》 [百度云链接](https://pan.baidu.com/s/1a4pZlzP_7HJUF9OuaZT4kw?pwd=bsxt ) 提取码：bsxt
 - 《现代操作系统-第三版》 [百度云链接](https://pan.baidu.com/s/1ACsFxcyTnKwUKEO8KCbB3A?pwd=bywr ) 提取码：bywr
-- 《计算机是怎么跑起来的》 [百度云链接](https://pan.baidu.com/s/199ADB6qyTPyEyg-s8lXT6g ）  提取码: dy7q
+- 《计算机是怎么跑起来的》 [百度云链接](https://pan.baidu.com/s/199ADB6qyTPyEyg-s8lXT6g ) 提取码：dy7q
 ## - [基础模块-计算机网络](https://github.com/alex-github-11/Basic-Module/blob/main/Note/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C.md)
 
 ## - [基础模块-计算机组成原理](https://github.com/alex-github-11/Basic-Module/blob/main/Note/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86.md)
