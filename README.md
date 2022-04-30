@@ -26,15 +26,36 @@
 - 《C++ STL源码剖析（侯捷版本）》 [百度云链接](https://pan.baidu.com/s/1cSVVmoCRrINWWrOzWdAI8A ) 提取码：0sg2
 
 ## - [基础模块-计算机语言python](https://github.com/alex-github-11/Basic-Module/blob/main/Note/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%AF%AD%E8%A8%80python.md)
+- 《深入理解计算机系统》 [百度云链接](https://pan.baidu.com/s/1yYC4wSaothhPswFunf9uyg ) 提取码：mvte
 
 ## - [基础模块-计算机操作系统](https://github.com/alex-github-11/Basic-Module/blob/main/Note/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F.md)
-- 《深入理解计算机操作系统》 [百度云链接](https://pan.baidu.com/s/1yYC4wSaothhPswFunf9uyg ) 提取码：mvte
+- 《深入理解计算机系统》 [百度云链接](https://pan.baidu.com/s/1yYC4wSaothhPswFunf9uyg ) 提取码：mvte
 - 《现代操作系统-第三版》 [百度云链接](https://pan.baidu.com/s/178gPT_UoB0wERmRnebWQ5A ) 提取码：stnj
 - 《计算机是怎么跑起来的》 [百度云链接](https://pan.baidu.com/s/199ADB6qyTPyEyg-s8lXT6g ) 提取码：dy7q
+- 《深入理解Nginx模块开发与架构解析第2版》 [百度云链接](https://pan.baidu.com/s/1F06RKA0XvlKz4lb-xgJE2w ) 提取码：uk9l
+- 《分布式系统概念与设计 原书第5版》 [百度云链接](https://pan.baidu.com/s/19rhndwr_9NU-Jz0RJQb6uA ) 提取码：b0uk
+- 《Wireshark网络分析就这么简单》 [百度云链接](https://pan.baidu.com/s/12_DkatUF2M8CZBDhUtMt1w ) 提取码：ccn4
+- 《UNIX网络编程第二卷》 [百度云链接](https://pan.baidu.com/s/1X6_XzkqY0AB_g-s8aEKPdA ) 提取码：rgy4
+- 《UNIX编程艺术-中文版》 [百度云链接](https://pan.baidu.com/s/1MOMifRW5lXr4oKR_SFlOiw ) 提取码：j5ni
+- 《Orange's一个操作系统的实现》 [百度云链接](https://pan.baidu.com/s/1xUflkyovWJ1AUDVxbwhSPQ ) 提取码：u50y
+- 《Linux网络编程》 [百度云链接](https://pan.baidu.com/s/1V_7kwiEdzThqxjqsBuolew ) 提取码：qzaf
+- 《Linux内核设计与实现(第三版中文版》 [百度云链接](https://pan.baidu.com/s/1BOg8jGo0o2E-EVwk4Hx0Yw ) 提取码：0nqg
+- 《Linux高性能服务器编程》 [百度云链接](https://pan.baidu.com/s/1XRWqn4z5x6G9tSNQ2uZ_Aw ) 提取码：yxiw
+- 《Linux多线程服务端编程》 [百度云链接](https://pan.baidu.com/s/1UG_M1BSvLdPPelr5xlDpHA ) 提取码：0p3g
+- 《HTTP权威指南（中文版）》 [百度云链接](https://pan.baidu.com/s/1b5Z4ji0FMWNHxlF0XDrjqg ) 提取码：uyqt
+
 ## - [基础模块-计算机网络](https://github.com/alex-github-11/Basic-Module/blob/main/Note/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C.md)
+- 《计算机网络教程：自顶向下方法》 [百度云链接](https://pan.baidu.com/s/1uyMkGbWAcJjWcPCax98E6A ) 提取码：n979
 
 ## - [基础模块-计算机组成原理](https://github.com/alex-github-11/Basic-Module/blob/main/Note/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86.md)
+- 《深入理解计算机系统》 [百度云链接](https://pan.baidu.com/s/1yYC4wSaothhPswFunf9uyg ) 提取码：mvte
 
 ## - [基础模块-数据结构与算法](https://github.com/alex-github-11/Basic-Module/blob/main/Note/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95.md)
+- 《深入理解计算机系统》 [百度云链接](https://pan.baidu.com/s/1yYC4wSaothhPswFunf9uyg ) 提取码：mvte
 
 ## - [基础模块-计算机工具](https://github.com/alex-github-11/Basic-Module/blob/main/Note/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%B7%A5%E5%85%B7.md)
+- 《人月神话中文版》 [百度云链接](https://pan.baidu.com/s/1Vxw1b7f8oXkJ1DZ6sDFNDQ ) 提取码：ngx4
+- 《浪潮之巅（完整版）》 [百度云链接](https://pan.baidu.com/s/1QAJZVO5GiO7HlkViaO3WfQ ) 提取码：9m6o
+- 《黑客与画家》 [百度云链接](https://pan.baidu.com/s/1YlHNRKNCjIXs1agjBY9VtQ ) 提取码：1wdb
+- 《程序员的自我修养—链接、装载与库》 [百度云链接](https://pan.baidu.com/s/1hNfQy5VQHJBS9dkSK6C9AA ) 提取码：tcys
+- 《编程珠玑（第二版）》 [百度云链接](https://pan.baidu.com/s/1FEmVYhTVqdWl9UdjQLQs7Q ) 提取码：xw4s
