@@ -51,7 +51,18 @@
 - 《深入理解计算机系统》 [百度云链接](https://pan.baidu.com/s/1yYC4wSaothhPswFunf9uyg ) 提取码：mvte
 
 ## - [基础模块-数据结构与算法](https://github.com/alex-github-11/Basic-Module/blob/main/Note/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95.md)
-- 《深入理解计算机系统》 [百度云链接](https://pan.baidu.com/s/1yYC4wSaothhPswFunf9uyg ) 提取码：mvte
+- 《算法图解》 [百度云链接](https://pan.baidu.com/s/10X2EbGE0vgAGKKxJVG1FXQ ) 提取码：di5t
+- 《算法第四版》 [百度云链接](https://pan.baidu.com/s/1Um_XLGxDQggBAeYsG-ZKlQ ) 提取码：4n5t
+- 《算法导论第三版》 [百度云链接](https://pan.baidu.com/s/1jEv3a0nQAZsY7uSaLddUWA ) 提取码：rjdp
+- 《数据结构与算法分析：C语言描述_原书第2版》 [百度云链接](https://pan.baidu.com/s/1_tSaHz1sct-iX9khtQzqXQ ) 提取码：7ku5
+- 《剑指offer 名企面试官精讲典型编程题》 [百度云链接](https://pan.baidu.com/s/1xRUWa9gzgTJgP6qN5DduDg ) 提取码：2nky
+- 《大话数据结构》 [百度云链接](https://pan.baidu.com/s/18rNG-AQ4ED41k-5IuldLEA ) 提取码：vjxa
+- 《编程之美——微软技术面试心得》 [百度云链接](https://pan.baidu.com/s/14uAfUG_t8dgm3C8y2KZLAg ) 提取码：dkvd
+- 《编程之法》 [百度云链接](https://pan.baidu.com/s/1RLU5_KB5W-jP-DjYc2z0EA ) 提取码：s6q3
+- 《背包九讲》 [百度云链接](https://pan.baidu.com/s/1avCeHRVMYTnzvyF13JEN8w ) 提取码：6i0k
+- 《啊哈算法》 [百度云链接](https://pan.baidu.com/s/1yYC4wSaothhPswFunf9uyg ) 提取码：rkic
+- 《LeetCode刷题手册》 [百度云链接](https://pan.baidu.com/s/1xhcy8WlLp296wYjqN-dg3w ) 提取码：bx9c
+- 《LeetCode 101 - A LeetCode Grinding Guide (C++ Version)》 [百度云链接](https://pan.baidu.com/s/1yblRQ2qBhLqxxCMHjon6-g ) 提取码：mqhd
 
 ## - [基础模块-计算机工具](https://github.com/alex-github-11/Basic-Module/blob/main/Note/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%B7%A5%E5%85%B7.md)
 - 《人月神话中文版》 [百度云链接](https://pan.baidu.com/s/1Vxw1b7f8oXkJ1DZ6sDFNDQ ) 提取码：ngx4
