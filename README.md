@@ -5,7 +5,7 @@
 # 作者简介
 微信公众号：[自动驾驶事务所]
 个人公众号(欢迎关注)：
-![](resources/WechatIMG29.jpeg)
+![](/resources/WechatIMG29.jpeg)
 
 
 # 目录
