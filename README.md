@@ -7,7 +7,7 @@
 
 个人公众号(欢迎关注)：
 
-![](/resources/二维码.jpeg)
+![](/resources/picture.jpeg)
 
 
 # 目录
