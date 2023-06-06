@@ -7,7 +7,7 @@
 
 个人公众号(欢迎关注)：
 
-![](/resources/WechatIMG29.jpeg)
+![](/resources/二维码.jpeg)
 
 
 # 目录
