@@ -11,66 +11,324 @@
 
 
 # 目录
-## - [基础模块-计算机语言C](https://github.com/alex-github-11/Basic-Module/blob/main/Note/%E8%AE%A1%E7%AE%97%E6%9C%BAC%E8%AF%AD%E8%A8%80.md)
-- 《深入理解C指针》 [百度云链接](https://pan.baidu.com/s/1fKL5TCn8q2FHCEXH_qvFXA ) 提取码：bqi2
-- 《C和指针》 [百度云链接](https://pan.baidu.com/s/1sc8YbfMJ76F4OGaB2wfnRg ) 提取码：6vqr
+## 知行编程 - C 语言
+- [C语言程序设计_现代方法 第2版.zip](https://pan.quark.cn/s/746fbf106f98)
+- [《汇编语言(第3版) 》王爽著.zip](https://pan.quark.cn/s/3122a43f97ff)
+- [深入理解C指针.zip](https://pan.quark.cn/s/4211d188f5af)
+- [C语言程序开发范例宝典.zip](https://pan.quark.cn/s/86bc19fcec2f)
+- [C陷阱与缺陷.zip](https://pan.quark.cn/s/94ab23ef8c89)
+- [C语言高级实用编程技巧.zip](https://pan.quark.cn/s/bd844e88a654)
+- [C语言解惑(中文版).zip](https://pan.quark.cn/s/778170e723eb)
+- [C语言游戏编程从入门到精通.zip](https://pan.quark.cn/s/1806d95effe6)
+- [C语言科学与艺术.zip](https://pan.quark.cn/s/73e602a53062)
+- [C语言接口技术.zip](https://pan.quark.cn/s/af783e3e2cad)
+- [C语言接口与实现.zip](https://pan.quark.cn/s/9301a1449426)
+- [C和C++代码精粹.zip](https://pan.quark.cn/s/1f6e71b0357d)
+- [C语言实例解析精粹.zip](https://pan.quark.cn/s/8d5704a4a60b)
+- [C程序设计语言(第2版_新版).zip](https://pan.quark.cn/s/faa53e2d870c)
+- [C Primer Plus（第五版）[中文版].zip](https://pan.quark.cn/s/0bc8fb480456)
+- [C数值算法.zip](https://pan.quark.cn/s/b3fc6adf79a2)
+- [C和指针(第二版).zip](https://pan.quark.cn/s/c68e5079a888)
+- [C专家编程.zip](https://pan.quark.cn/s/aafacc935244)
 
-## - [基础模块-计算机语言C++](https://github.com/alex-github-11/Basic-Module/blob/main/Note/%E8%AE%A1%E7%AE%97%E6%9C%BAC%2B%2B%E8%AF%AD%E8%A8%80.md)
-- 《C++ Primer（第5版）_带书签_高清完整版》 [百度云链接](https://pan.baidu.com/s/1JBsmumbfopWF484CvSP4fg ) 提取码：0ouj
-- 《C++ Primer Plus（第6版）_中文版_带书签_超清》 [百度云链接](https://pan.baidu.com/s/16PdWpDGhXKvEggl8aN-nxA ) 提取码：qzfn
-- 《深入应用C++11：代码优化与工程级应用》 [百度云链接](https://pan.baidu.com/s/1owf-PpiBz-l34e9Zynx5yw ) 提取码：ka58
-- 《深入理解C++11新特性》 [百度云链接](https://pan.baidu.com/s/1ZdpJ-dsNjKCUhhqyjJMMBw ) 提取码：xn77
-- 《泛型编程与STL中文版》 [百度云链接](https://pan.baidu.com/s/1URWNE-tA_RlI_OGbF9WRMw ) 提取码：zjdb
-- 《More Exceptional C++中英文版》 [百度云链接](https://pan.baidu.com/s/1D3C4_YpKiLM5BTDlzAEnTQ ) 提取码：56p9
-- 《Effective C++》 [百度云链接](https://pan.baidu.com/s/1K0giX_GtiiCVBglhBbcuiw ) 提取码：1mgn
-- 《C++语言的设计和演化》 [百度云链接](https://pan.baidu.com/s/13IcovuiKu5SQvsa2F2ziEQ ) 提取码：mmi9
-- 《C++应用程序性能优化》 [百度云链接](https://pan.baidu.com/s/1Rh7WDNnlEP4gwPBg6GHpaw ) 提取码：giru
-- 《C++程序设计语言》 [百度云链接](https://pan.baidu.com/s/1dywaVSdkg8U8WCvcHlgLUw ) 提取码：f65t
-- 《C++沉思录》 [百度云链接](https://pan.baidu.com/s/1VIAWmNYU_7AfJhlir2GH_A ) 提取码：3nkv
-- 《C++ STL源码剖析（侯捷版本）》 [百度云链接](https://pan.baidu.com/s/1cSVVmoCRrINWWrOzWdAI8A ) 提取码：0sg2
+## 知行编程 - C++ 语言
+- [[免费高清PDF版]C++程序设计语言.第1～3部分.原书第4版.zip](https://pan.quark.cn/s/8879804194b1)
+- [深度探索C++对象模型.zip](https://pan.quark.cn/s/5fdb36211d09)
+- [深入理解C++11：C++11新特性解析与应用.zip](https://pan.quark.cn/s/d103150958e0)
+- [深度探索C++对象模型 PDF中文清晰版.zip](https://pan.quark.cn/s/a8676617c1b3)
+- [深入应用C++11：代码优化与工程级应用.zip](https://pan.quark.cn/s/fcd1e4fce13b)
+- [提高C++性能的编程技术.zip](https://pan.quark.cn/s/3257766dfc9f)
+- [[免费高清PDF版]C++ Primer Plus（第6版) [中文版].zip](https://pan.quark.cn/s/7d237c15a21d)
+- [[免费高清PDF版]Effective Modern C++ [英文版].zip](https://pan.quark.cn/s/3b02d50e2b3d)
+- [[免费高清PDF版]C++ Primer（第5版）[中文版].zip](https://pan.quark.cn/s/5889ef63e3a5)
+- [大规模C++程序设计.zip](https://pan.quark.cn/s/e3613a154c08)
+- [[免费高清PDF版]C++程序设计语言.第4部分 标准库.原书第4版.zip](https://pan.quark.cn/s/81d0cf51e00f)
+- [[免费高清PDF版]C++模板_第二版.zip](https://pan.quark.cn/s/acc5e3387c98)
+- [[免费高清PDF版]C++商用工程之道.zip](https://pan.quark.cn/s/c438a37246c7)
+- [Effective Modern C++ 简体中文版.zip](https://pan.quark.cn/s/2948d44fbdf0)
+- [Modern+Design.zip](https://pan.quark.cn/s/f4128d5c2bf2)
+- [More.Effective.C++中文版.zip](https://pan.quark.cn/s/81cdd5bb3381)
+- [C++标准库(第2版).zip](https://pan.quark.cn/s/2cf227e9326b)
+- [Effective C++ 中文版第三版 高清PDF.zip](https://pan.quark.cn/s/cd0467fc45a5)
+- [C++面向对象多线程编程.zip](https://pan.quark.cn/s/6ccc7afb55c1)
+- [C++语言的设计和演化.zip](https://pan.quark.cn/s/65342cbedf76)
+- [Google C++ Style Guide.zip](https://pan.quark.cn/s/b90e6f6be063)
+- [Effective STL中文版.zip](https://pan.quark.cn/s/82973f2d81b1)
+- [C++编程规范-101条规则准则与最佳实践.zip](https://pan.quark.cn/s/ed889ed02dc8)
+- [C++设计新思维泛型编程与设计模式之应.zip](https://pan.quark.cn/s/6353ed7509fb)
+- [C++程序设计语言.zip](https://pan.quark.cn/s/bc0050e86a86)
+- [C++程序设计语言(特别版).zip](https://pan.quark.cn/s/6323b2821d79)
+- [C++模板元编程.zip](https://pan.quark.cn/s/28150cb17fad)
+- [C++沉思录.zip](https://pan.quark.cn/s/2faf70133aed)
+- [C++ Primer习题集  第5版 ,（美）李普曼 ,P520.zip](https://pan.quark.cn/s/cb76b37fbeb4)
+- [C++性能优化指南.zip](https://pan.quark.cn/s/1af82f3d9ffb)
+- [C++Primer中文版(第4版).zip](https://pan.quark.cn/s/f4d544670297)
+- [C++应用程序性能优化.zip](https://pan.quark.cn/s/ea6720b3b555)
+- [C++并发编程实战(中文版).zip](https://pan.quark.cn/s/4746b23a3463)
+- [C++ 工程实践经验谈-Practice.zip](https://pan.quark.cn/s/55239b4e32b8)
+- [C++ Primer（第五版） [英文版].zip](https://pan.quark.cn/s/e7e545238987)
+- [Accelerated C++ [中文版].zip](https://pan.quark.cn/s/3738aa8ed47f)
+- [Beyond the C++ Standard Library [英文版].zip](https://pan.quark.cn/s/a32e522f5ff1)
 
-## - [基础模块-计算机语言python](https://github.com/alex-github-11/Basic-Module/blob/main/Note/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%AF%AD%E8%A8%80python.md)
-- 《深入理解计算机系统》 [百度云链接](https://pan.baidu.com/s/1yYC4wSaothhPswFunf9uyg ) 提取码：mvte
+## 知行编程 - Python 语言
+- [Python高级编程.（法）莱德.扫描版.zip](https://pan.quark.cn/s/05e113ff8cdf)
+- [用Python做科学计算(scipy).zip](https://pan.quark.cn/s/ceaba05ada47)
+- [Python编程入门经典.zip](https://pan.quark.cn/s/592deb471d2c)
+- [PYTHON自然语言处理中文版.zip](https://pan.quark.cn/s/3649da330f76)
+- [Python网络编程基础第二版.zip](https://pan.quark.cn/s/49776960b3ef)
+- [Python灰帽子-黑客与逆向工程师的Python编程之道.Justin.Seitz.扫描版.zip](https://pan.quark.cn/s/58be803ede07)
+- [Python源码剖析.zip](https://pan.quark.cn/s/7879d4bba50d)
+- [Python技术手册(第2版).（美）马特利.扫描版.zip](https://pan.quark.cn/s/16cc1aabe75c)
+- [Python数据分析基础教程：NumPy学习指南（第2版）.zip](https://pan.quark.cn/s/4f95e04968de)
+- [Python学习手册_第3版.zip](https://pan.quark.cn/s/658a8674c1a2)
+- [Python技术参考大全.zip](https://pan.quark.cn/s/0732c8df7d3b)
+- [Python基础教程(第2版).人民邮电出版社.扫描版.zip](https://pan.quark.cn/s/c6f71d1db48e)
+- [Python参考手册(第4版).zip](https://pan.quark.cn/s/1321fa394848)
+- [Python3程序开发指南.第二版(带书签).zip](https://pan.quark.cn/s/791b1b2377cc)
+- [Python.Unix和Linux系统管理指南.（美）基弗特.扫描版.zip](https://pan.quark.cn/s/6968bcf92077)
+- [Python_Testing_Cookbook.zip](https://pan.quark.cn/s/269612d0789c)
+- [Python 核心编程翻译版(第二版).zip](https://pan.quark.cn/s/07d9ec299609)
+- [Python Cookbook(第2版)中文版.zip](https://pan.quark.cn/s/3fec91d0bb11)
+- [python web开发学习实录.zip](https://pan.quark.cn/s/a8a041e7f2cd)
 
-## - [基础模块-计算机操作系统](https://github.com/alex-github-11/Basic-Module/blob/main/Note/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F.md)
-- 《深入理解计算机系统》 [百度云链接](https://pan.baidu.com/s/1yYC4wSaothhPswFunf9uyg ) 提取码：mvte
-- 《现代操作系统-第三版》 [百度云链接](https://pan.baidu.com/s/178gPT_UoB0wERmRnebWQ5A ) 提取码：stnj
-- 《计算机是怎么跑起来的》 [百度云链接](https://pan.baidu.com/s/199ADB6qyTPyEyg-s8lXT6g ) 提取码：dy7q
-- 《深入理解Nginx模块开发与架构解析第2版》 [百度云链接](https://pan.baidu.com/s/1F06RKA0XvlKz4lb-xgJE2w ) 提取码：uk9l
-- 《分布式系统概念与设计 原书第5版》 [百度云链接](https://pan.baidu.com/s/19rhndwr_9NU-Jz0RJQb6uA ) 提取码：b0uk
-- 《Wireshark网络分析就这么简单》 [百度云链接](https://pan.baidu.com/s/12_DkatUF2M8CZBDhUtMt1w ) 提取码：ccn4
-- 《UNIX网络编程第二卷》 [百度云链接](https://pan.baidu.com/s/1X6_XzkqY0AB_g-s8aEKPdA ) 提取码：rgy4
-- 《UNIX编程艺术-中文版》 [百度云链接](https://pan.baidu.com/s/1MOMifRW5lXr4oKR_SFlOiw ) 提取码：j5ni
-- 《Orange's一个操作系统的实现》 [百度云链接](https://pan.baidu.com/s/1xUflkyovWJ1AUDVxbwhSPQ ) 提取码：u50y
-- 《Linux网络编程》 [百度云链接](https://pan.baidu.com/s/1V_7kwiEdzThqxjqsBuolew ) 提取码：qzaf
-- 《Linux内核设计与实现(第三版中文版》 [百度云链接](https://pan.baidu.com/s/1BOg8jGo0o2E-EVwk4Hx0Yw ) 提取码：0nqg
-- 《Linux高性能服务器编程》 [百度云链接](https://pan.baidu.com/s/1XRWqn4z5x6G9tSNQ2uZ_Aw ) 提取码：yxiw
-- 《Linux多线程服务端编程》 [百度云链接](https://pan.baidu.com/s/1UG_M1BSvLdPPelr5xlDpHA ) 提取码：0p3g
-- 《HTTP权威指南（中文版）》 [百度云链接](https://pan.baidu.com/s/1b5Z4ji0FMWNHxlF0XDrjqg ) 提取码：uyqt
+## 知行编程 - Java 语言
+- [Java核心技术卷1基础知识原书第10版.zip](https://pan.quark.cn/s/cbb6c8015c99)
+- [深入理解Java虚拟机：JVM高级特性与最佳实践（最新第二版）.zip](https://pan.quark.cn/s/741de99db64b)
+- [Effective Java 中文第二版.zip](https://pan.quark.cn/s/b2921925a2cb)
+## 知行编程 - C++ STL
 
-## - [基础模块-计算机网络](https://github.com/alex-github-11/Basic-Module/blob/main/Note/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C.md)
-- 《计算机网络教程：自顶向下方法》 [百度云链接](https://pan.baidu.com/s/1uyMkGbWAcJjWcPCax98E6A ) 提取码：n979
+- [C++ STL源码剖析（侯捷版本）.zip](https://pan.quark.cn/s/3e383dc55207)
+- [泛型编程与STL中文版.zip](https://pan.quark.cn/s/00aaf7f52be9)
+- [C++ STL标准程序库开发指南.第2版.闫常友.zip](https://pan.quark.cn/s/3839c5bd1a60)
+- [STL源码剖析(中文完整版带书签).zip](https://pan.quark.cn/s/7c631c7d15b8)
+- [C++.STL中文版.zip](https://pan.quark.cn/s/4b42de253964)
 
-## - [基础模块-计算机组成原理](https://github.com/alex-github-11/Basic-Module/blob/main/Note/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86.md)
-- 《深入理解计算机系统》 [百度云链接](https://pan.baidu.com/s/1yYC4wSaothhPswFunf9uyg ) 提取码：mvte
 
-## - [基础模块-数据结构与算法](https://github.com/alex-github-11/Basic-Module/blob/main/Note/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95.md)
-- 《算法图解》 [百度云链接](https://pan.baidu.com/s/10X2EbGE0vgAGKKxJVG1FXQ ) 提取码：di5t
-- 《算法第四版》 [百度云链接](https://pan.baidu.com/s/1Um_XLGxDQggBAeYsG-ZKlQ ) 提取码：4n5t
-- 《算法导论第三版》 [百度云链接](https://pan.baidu.com/s/1jEv3a0nQAZsY7uSaLddUWA ) 提取码：rjdp
-- 《数据结构与算法分析：C语言描述_原书第2版》 [百度云链接](https://pan.baidu.com/s/1_tSaHz1sct-iX9khtQzqXQ ) 提取码：7ku5
-- 《剑指offer 名企面试官精讲典型编程题》 [百度云链接](https://pan.baidu.com/s/1xRUWa9gzgTJgP6qN5DduDg ) 提取码：2nky
-- 《大话数据结构》 [百度云链接](https://pan.baidu.com/s/18rNG-AQ4ED41k-5IuldLEA ) 提取码：vjxa
-- 《编程之美——微软技术面试心得》 [百度云链接](https://pan.baidu.com/s/14uAfUG_t8dgm3C8y2KZLAg ) 提取码：dkvd
-- 《编程之法》 [百度云链接](https://pan.baidu.com/s/1RLU5_KB5W-jP-DjYc2z0EA ) 提取码：s6q3
-- 《背包九讲》 [百度云链接](https://pan.baidu.com/s/1avCeHRVMYTnzvyF13JEN8w ) 提取码：6i0k
-- 《啊哈算法》 [百度云链接](https://pan.baidu.com/s/1yYC4wSaothhPswFunf9uyg ) 提取码：rkic
-- 《LeetCode刷题手册》 [百度云链接](https://pan.baidu.com/s/1xhcy8WlLp296wYjqN-dg3w ) 提取码：bx9c
-- 《LeetCode 101 - A LeetCode Grinding Guide (C++ Version)》 [百度云链接](https://pan.baidu.com/s/1yblRQ2qBhLqxxCMHjon6-g ) 提取码：mqhd
+## 知行编程 - 设计模式
+- [设计模式之禅.zip](https://pan.quark.cn/s/a5ec0c6e0866)
+- [软件架构方面.zip](https://pan.quark.cn/s/5b37b8ddc100)
+- [设计模式：可复用面向对象软件的基础.zip](https://pan.quark.cn/s/d56edb947e6b)
+- [设计模式解析.zip](https://pan.quark.cn/s/c8de4d5b0bb8)
+- [设计模式沉思录.zip](https://pan.quark.cn/s/45d0c0345053)
+- [大话设计模式（带目录完整版）.zip](https://pan.quark.cn/s/85785a9eac3f)
+- [设计模式pdf.zip](https://pan.quark.cn/s/576c42efc3d5)
+- [大型分布式网站架构设计与实践.带目录书签.完整版.zip](https://pan.quark.cn/s/696ce2caddfa)
+- [设计模式.zip](https://pan.quark.cn/s/5d677a0d580a)
+- [大型网站技术架构_核心原理与案例分析_李智慧.zip](https://pan.quark.cn/s/eb722c7ff82c)
+- [HeadFirst设计模式.zip](https://pan.quark.cn/s/ec9e26011c3f)
+- [more_c++_idioms.zip](https://pan.quark.cn/s/e92895a80f52)
+- [C++设计新思维.zip](https://pan.quark.cn/s/30ad832bc683)
+- [23种设计模式(C++).zip](https://pan.quark.cn/s/31ef486dc813)
+- [Advanced.C++.Programming.Styles.and.Idioms--中文版.zip](https://pan.quark.cn/s/7a6a3e7dddef)
 
-## - [基础模块-计算机工具](https://github.com/alex-github-11/Basic-Module/blob/main/Note/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%B7%A5%E5%85%B7.md)
-- 《人月神话中文版》 [百度云链接](https://pan.baidu.com/s/1Vxw1b7f8oXkJ1DZ6sDFNDQ ) 提取码：ngx4
-- 《浪潮之巅（完整版）》 [百度云链接](https://pan.baidu.com/s/1QAJZVO5GiO7HlkViaO3WfQ ) 提取码：9m6o
-- 《黑客与画家》 [百度云链接](https://pan.baidu.com/s/1YlHNRKNCjIXs1agjBY9VtQ ) 提取码：1wdb
-- 《程序员的自我修养—链接、装载与库》 [百度云链接](https://pan.baidu.com/s/1hNfQy5VQHJBS9dkSK6C9AA ) 提取码：tcys
-- 《编程珠玑（第二版）》 [百度云链接](https://pan.baidu.com/s/1FEmVYhTVqdWl9UdjQLQs7Q ) 提取码：xw4s
+## 知行编程 - 计算机网络
+- [计算机网络-自顶向下方法-第6版(课本).zip](https://pan.quark.cn/s/4a94c6c973a1)
+- [计算机网络：自顶向下方法课后习题参考答案.zip](https://pan.quark.cn/s/a4ae3bfd7dde)
+- [计算机网络第五版.zip](https://pan.quark.cn/s/7ba44ce47e8e)
+- [计算机网络教程：自顶向下方法.zip](https://pan.quark.cn/s/9d7c6b659d5b)
+- [计算机网络技术实用教程.李畅.文字版.zip](https://pan.quark.cn/s/6837b9a467c3)
+- [暗黑风格-图解网络.zip](https://pan.quark.cn/s/73ec92485273)
+- [网络是怎样连接的.zip](https://pan.quark.cn/s/d975bf8e0d26)
+- [图解网络-小林coding-v3.0.zip](https://pan.quark.cn/s/d0ee02a6faee)
+- [图解TCP_IP 第5版.zip](https://pan.quark.cn/s/b37e47d31891)
+- [图解网络.zip](https://pan.quark.cn/s/5415c80498e1)
+- [图解HTTP.zip](https://pan.quark.cn/s/8ea2471ca617)
+- [TCP_IP网络编程.zip](https://pan.quark.cn/s/992d141fa7ad)
+[Wireshark网络分析就这么简单.zip](https://pan.quark.cn/s/20233ff638fe)
+[tcp源码分析.zip](https://pan.quark.cn/s/e3b8ba5f5e3a)
+[TCP+IP详解卷1：协议 原书第2版.zip](https://pan.quark.cn/s/30ba5a96440d)
+[Wireshark网络分析的艺术.zip](https://pan.quark.cn/s/f0bd90950b99)
+[TCPIP高效编程-改善网络程序的44个技巧.zip](https://pan.quark.cn/s/cd905f233817)
+[TCP-IP详解卷3：TCP事务协议，HTTP，NNTP和UNIX域协议.zip](https://pan.quark.cn/s/180b1f28e821)
+[TCP-IP详解卷2：实现.zip](https://pan.quark.cn/s/f72164f5d637)
+[TCP-IP详解卷1：协议.zip](https://pan.quark.cn/s/969606848a5c)
+[TCP-IP详解(卷一、二、三).zip](https://pan.quark.cn/s/17344e35396c)
+[HTTP权威指南（中文版）.zip](https://pan.quark.cn/s/954cbb00a57d)
+[TCP+IP协议内核源码分析.zip](https://pan.quark.cn/s/fcd7d9c566b9)
+
+## 知行编程 - 计算机组成原理
+[计算机组成与设计：硬件、软件接口（第三版中文）.zip](https://pan.quark.cn/s/30cea24ea542)
+[计算机组织与体系结构 - 性能设计 第六版.zip](https://pan.quark.cn/s/985b8a5c7866)
+[计算机组成原理(第2版)-唐朔飞.zip](https://pan.quark.cn/s/2f0bd74f02e9)
+[编译原理-龙书.zip](https://pan.quark.cn/s/bbf734dd67e0)
+[计算机组成——结构化方法第5版.zip](https://pan.quark.cn/s/ed8d57f748fe)
+[计算机系统要素：从零开始构建现代计算机.zip](https://pan.quark.cn/s/8f93d04f9a2d)
+[计算机体系结构基础.zip](https://pan.quark.cn/s/7b8c1332dcce)
+[计算机原理.zip](https://pan.quark.cn/s/fa040467154a)
+[计算机与人脑.zip](https://pan.quark.cn/s/ce0f31a526a6)
+[557813 计算机组成与设计  硬件软件接口 原书第5版.zip](https://pan.quark.cn/s/9d1c7a26486b)
+[图解计算机基础.zip](https://pan.quark.cn/s/8a5d3888fe24)
+[x86汇编语言  从实模式到保护模式完整版.zip](https://pan.quark.cn/s/49f499ecabfb)
+
+## 知行编程 - 自动驾驶行业
+[计算机视觉中的多视图几何.zip](https://pan.quark.cn/s/518f6e4b1482)
+[视觉SLAM十四讲.zip](https://pan.quark.cn/s/b458a40e5155)
+[面向机器智能的TensorFlow实践 (智能系统与技术丛书)_.zip](https://pan.quark.cn/s/104e4512f745)
+[点云库PCL学习教程.zip](https://pan.quark.cn/s/a3f00ed817fa)
+[深度学习、优化与识别.焦李成(详细书签).zip](https://pan.quark.cn/s/866219bf53a1)
+[深度学习  21天实战Caffe.zip](https://pan.quark.cn/s/946283ca2100)
+[深度学习面试宝典20190623.zip](https://pan.quark.cn/s/eb1d56568009)
+[深度学习综述.zip](https://pan.quark.cn/s/85506b6d7966)
+[深度学习思维导图.zip](https://pan.quark.cn/s/41c90073398d)
+[深度学习之PyTorch物体检测实战.zip](https://pan.quark.cn/s/35681260f000)
+[概率机器人-中文.zip](https://pan.quark.cn/s/52f963c7c86e)
+[深度学习.zip](https://pan.quark.cn/s/423a6eb1778c)
+[机器视觉算法与应用.zip](https://pan.quark.cn/s/df870919e28f)
+[机器视觉算法及应用第二版.zip](https://pan.quark.cn/s/1f40880570d2)
+[基于视觉的自主机器人导航 [M]_查特吉.zip](https://pan.quark.cn/s/d457191a0f4c)
+[机器视觉-张广军.zip](https://pan.quark.cn/s/beac2c59429c)
+[吴恩达DeepLearning.ai中文版笔记.zip](https://pan.quark.cn/s/efd975d2f086)
+[OpenCV3编程入门.zip](https://pan.quark.cn/s/bfbb3237df23)
+[人工智能教育革命.zip](https://pan.quark.cn/s/4ff5c4c5d125)
+[PyTorch-官方推荐教程-英文版.zip](https://pan.quark.cn/s/469d7eea16e8)
+[《神经网络与深度学习》(邱锡鹏-20191121).zip](https://pan.quark.cn/s/891365193361)
+[Important_深度学习面试知识点总结_无水印.zip](https://pan.quark.cn/s/6f2fef18913e)
+
+
+## 知行编程 - linux && 编程数学
+[黑客与画家.zip](https://pan.quark.cn/s/8ab8863e814b)
+[鸟哥私房菜（全）.zip](https://pan.quark.cn/s/f8c11260e6d9)
+[老码识途 从机器码到框架的系统观逆向修炼之路.zip](https://pan.quark.cn/s/482603e5662a)
+[鸟哥的Linux私房菜基础篇第三版.zip](https://pan.quark.cn/s/285ab8689e77)
+[计算机是怎样跑起来的.zip](https://pan.quark.cn/s/39563e6f9004)
+[程序设计实践.zip](https://pan.quark.cn/s/7308fdf754e7)
+[程序员的自我修养—链接、装载与库--书签目录.zip](https://pan.quark.cn/s/2eadeceb101f)
+[浪潮之巅（完整版）.zip](https://pan.quark.cn/s/8bb4ee72391a)
+[数学之美.zip](https://pan.quark.cn/s/b9b9af272005)
+[《汇编语言(第3版) 》王爽著.zip](https://pan.quark.cn/s/81f49caa9307)
+[代码整洁之道.zip](https://pan.quark.cn/s/a0906110973f)
+[人月神话中文版.zip](https://pan.quark.cn/s/80e8e680619d)
+[Linux高性能服务器编程.zip](https://pan.quark.cn/s/bfc1fe1fdda3)
+[《Linux内核完全剖析基于0.12内核》 (带目录可注释).zip](https://pan.quark.cn/s/0af3fababc4c)
+[Linux内核设计与实现(第三版中文高清带目录).zip](https://pan.quark.cn/s/0332a8cee64f)
+[Linux多线程服务端编程.zip](https://pan.quark.cn/s/658e53925060)
+[Linux网络编程.zip](https://pan.quark.cn/s/a0f5beb43543)
+[LInux情景分析(上).zip](https://pan.quark.cn/s/336fa625e886)
+[LINUX内核源代码情景分析(上).zip](https://pan.quark.cn/s/2d20d817e6a2)
+[LINUX内核源代码情景分析(下).zip](https://pan.quark.cn/s/58e9d0250c92)
+[Linux内核完全注释.zip](https://pan.quark.cn/s/7c7944935d6c)
+[gdb 高级调试实战教程 张小方.zip](https://pan.quark.cn/s/a7be44a2c15f)
+[CMake Practice.zip](https://pan.quark.cn/s/b3e845f8a415)
+
+## 知行编程 - 计算机服务器编程
+[深入理解Nginx模块开发与架构解析第2版.zip](https://pan.quark.cn/s/1cfe6f40acae)
+[程序员的自我修养—链接、装载与库--书签目录.zip](https://pan.quark.cn/s/10e4a1ed383f)
+[编码——隐匿在计算机软硬件背后的语言上.zip](https://pan.quark.cn/s/b91446ddcbda)
+[UNIX网络编程第二卷.pdf.zip](https://pan.quark.cn/s/6d0ec3f84bda)
+[UNIX编程艺术-中文版.zip](https://pan.quark.cn/s/cb3aa7a51788)
+[UNIX环境高级编程(第三版).zip](https://pan.quark.cn/s/225cefffe4a9)
+[Wireshark网络分析就这么简单.zip](https://pan.quark.cn/s/7811428eca22)
+
+
+## 知行编程 - 数据结构与算法
+[算法笔记.zip](https://pan.quark.cn/s/287fc496f28f)
+[编程之美——微软技术面试心得.zip](https://pan.quark.cn/s/bb61bf62c2c1)
+[背包九讲.zip](https://pan.quark.cn/s/a97718c30eab)
+[编程之法.zip](https://pan.quark.cn/s/74d5e894b12a)
+[算法第四版.zip](https://pan.quark.cn/s/c076c94276fb)
+[算法笔记-上机训练实战指南-胡凡 完整.zip](https://pan.quark.cn/s/1d535eb09d5b)
+[编程珠玑 第二版 人民邮电出版社.zip](https://pan.quark.cn/s/5b54ae4d38e1)
+[算法小抄部分预览版.zip](https://pan.quark.cn/s/ecb26f2d0827)
+[程序员面试金典.zip](https://pan.quark.cn/s/b9e6747f9d11)
+[算法导论第三版.zip](https://pan.quark.cn/s/c15a5fdd0b6d)
+[程序员代码面试指南,左程云著 ,P513.zip](https://pan.quark.cn/s/650027c42ce3)
+[算法图解.zip](https://pan.quark.cn/s/f24ca7a3c093)
+[挑战程序设计竞赛(第2版) 高清完整版.zip](https://pan.quark.cn/s/bb7f303f66aa)
+[极客时间专栏《数据结构与算法之美》.zip](https://pan.quark.cn/s/17273d9d37d8)
+[数据结构与算法分析：C语言描述_原书第2版.zip](https://pan.quark.cn/s/184157a86f99)
+[数据结构与算法分析C++描述.zip](https://pan.quark.cn/s/257e5e8752b4)
+[啊哈！算法扫描版.zip](https://pan.quark.cn/s/0064b15d2e5e)
+[大话数据结构.zip](https://pan.quark.cn/s/e6eead567d79)
+[《算法导论》第三版.zip](https://pan.quark.cn/s/00b97f3ec0ac)
+[数据结构与算法经典问题解析  Java语言描述.zip](https://pan.quark.cn/s/55805f1feb4e)
+[《趣学算法》.zip](https://pan.quark.cn/s/c99b063c4494)
+[剑指offer名企面试官精讲典型编程题.zip](https://pan.quark.cn/s/9988a20c3806)
+[剑指 Offer.zip](https://pan.quark.cn/s/cbf3881c8bc1)
+[《妙趣横生的算法（C语言实现 第2版）》.zip](https://pan.quark.cn/s/96f61b13141b)
+[labuladong的算法小抄官方完整版.zip](https://pan.quark.cn/s/7b8f34973857)
+[《算法图解》.zip](https://pan.quark.cn/s/f8848e9d7d34)
+[LeetCode刷题手册.zip](https://pan.quark.cn/s/b154dee1e0fb)
+[bigsai- algorithm-V2.0.zip](https://pan.quark.cn/s/8be0cb38381f)
+[LeetCodeAnswers.zip](https://pan.quark.cn/s/3d6dccbf4bc9)
+[LeetCode 101 - A LeetCode Grinding Guide (C++ Version).zip](https://pan.quark.cn/s/ac6c00796d34)
+[Algorithms, 4th Edition(算法，第四版).zip](https://pan.quark.cn/s/20a45151fe3c)
+
+## 知行编程 - 数据库
+[高性能 MySQL 第三版.zip](https://pan.quark.cn/s/47bcdba8fec5)
+[高性能MySQL（第3版）.Baron.Scbwartz等.zip](https://pan.quark.cn/s/b29537a36829)
+[零基础学SQL.zip](https://pan.quark.cn/s/70527e859054)
+[空间数据挖掘及其相关问题研究.zip](https://pan.quark.cn/s/fd85b2e4334a)
+[深入学习MongoDB.zip](https://pan.quark.cn/s/d181906c21fa)
+[程序员的SQL金典(完整).zip](https://pan.quark.cn/s/9b05fe27f0cc)
+[数据挖掘理论与应用 - 胡可云.zip](https://pan.quark.cn/s/c4775a4b5630)
+[数据挖掘：概念与技术（中文第3版）.zip](https://pan.quark.cn/s/cc942c2d4d55)
+[数据挖掘导论.zip](https://pan.quark.cn/s/0f7e6e572c82)
+[数据库系统概念.zip](https://pan.quark.cn/s/35e5cb4efa89)
+[数据库系统概念 中文第6版.zip](https://pan.quark.cn/s/8217d6984dc9)
+[数据库系统导论.zip](https://pan.quark.cn/s/f3f538f34b8b)
+[数据库系统实现（第二版）.zip](https://pan.quark.cn/s/c3b5f31e303b)
+[数据库原理、编程与性能.zip](https://pan.quark.cn/s/84dadca7844f)
+[数据库系统基础教程(原书第3版).zip](https://pan.quark.cn/s/6bfcccbe045a)
+[数据分析：企业的贤内助.zip](https://pan.quark.cn/s/4850b75e922d)
+[数据仓库与OLAP实践教程.何玉洁等.扫描版.zip](https://pan.quark.cn/s/58ec24be7143)
+[事务处理原理  第2版.zip](https://pan.quark.cn/s/7a18f0b971f8)
+[数据库基础知识.zip](https://pan.quark.cn/s/2a559e71b874)
+[数据仓库与数据挖掘 - 陈志泊.zip](https://pan.quark.cn/s/a1466a29eab6)
+[weka使用教程.zip](https://pan.quark.cn/s/e356e4c3b57e)
+[Web数据挖掘.zip](https://pan.quark.cn/s/d58d8ac5c693)
+[SQL完全手册.zip](https://pan.quark.cn/s/a6cfa6bad30c)
+[SQL宝典.zip](https://pan.quark.cn/s/58804cb28857)
+[Transact-SQL用户指南.zip](https://pan.quark.cn/s/03b7b5c408e5)
+[SQL学习指南.zip](https://pan.quark.cn/s/1e231dc0d4c7)
+[Redis设计与实现.zip](https://pan.quark.cn/s/cd61c33b0922)
+[SQL基础教程.zip](https://pan.quark.cn/s/a794331c57b6)
+[SQL入门经典（第四版）.zip](https://pan.quark.cn/s/61666b412110)
+[sql语言艺术-中文版.zip](https://pan.quark.cn/s/ab84cfed84b4)
+[redis设计与实现(第二版).zip](https://pan.quark.cn/s/7d24a84a3eae)
+[MySQL核心技术手册(第二版).zip](https://pan.quark.cn/s/411d46914d44)
+[Redis开发与运维(付磊).zip](https://pan.quark.cn/s/447ea8c3f3d2)
+[MySQL技术内幕  InnoDB存储引擎  第2版.zip](https://pan.quark.cn/s/3cfb93e1d37e)
+[Oracle.SQL必备参考.zip](https://pan.quark.cn/s/215663109c6b)
+[MySQL必知必会.zip](https://pan.quark.cn/s/53a53a57f56d)
+[MySQL性能调优与架构设计.zip](https://pan.quark.cn/s/31a6af29e6af)
+[MySQL.Cookbook(第2版).(美)迪布瓦.zip](https://pan.quark.cn/s/72a706acd979)
+[MySQL 技术内幕 InnoDB 存储引擎 第 2 版.zip](https://pan.quark.cn/s/070a089d5055)
+[MySQL完全手册.zip](https://pan.quark.cn/s/d206eb652be4)
+[MongoDB权威指南.zip](https://pan.quark.cn/s/ed166ace3ff8)
+[MongoDB实战.zip](https://pan.quark.cn/s/38695966a11d)
+
+
+## 知行编程 - 计算机操作系统
+[深入理解计算机系统（原书第三版）.zip](https://pan.quark.cn/s/f9ace1140bd0)
+[链接器和加载器.zip](https://pan.quark.cn/s/ea5a893822d7)
+[计算机的心智操作系统之哲学原理.zip](https://pan.quark.cn/s/3765ecf264f6)
+[计算机是怎样跑起来的.zip](https://pan.quark.cn/s/6f2c60df6296)
+[自己动手写操作系统.zip](https://pan.quark.cn/s/9650d6c55019)
+[编译器设计 第2版.zip](https://pan.quark.cn/s/3c74cd98b7e2)
+[编码——隐匿在计算机软硬件背后的语言上.zip](https://pan.quark.cn/s/227ce95975fd)
+[编写可读代码的艺术.zip](https://pan.quark.cn/s/c114b118496c)
+[程序是怎样跑起来的.zip](https://pan.quark.cn/s/88e7d5f2e61f)
+[程序员的自我修养—链接、装载与库--书签目录.zip](https://pan.quark.cn/s/c3be422cac55)
+[编译原理(龙书第二版).zip](https://pan.quark.cn/s/371f2bf5238b)
+[现代操作系统  原书第4版[高清扫描版].zip](https://pan.quark.cn/s/aa34ca3a4200)
+[操作系统真象还原.zip](https://pan.quark.cn/s/ce8e58e896b5)
+[爱上单片机【第二版】7.zip](https://pan.quark.cn/s/150d4b4c6ff1)
+[深入理解Linux内核.zip](https://pan.quark.cn/s/fc4c046fb0b1)
+[深入理解计算机系统（中文清晰）.zip](https://pan.quark.cn/s/96b9f17278eb)
+[操作系统设计与实现.zip](https://pan.quark.cn/s/2910794c4684)
+[操作系统教程(第3版).zip](https://pan.quark.cn/s/ef627a72e8d1)
+[操作系统原理及应用(Linux).王红等.扫描版.zip](https://pan.quark.cn/s/77ff96342ced)
+[操作系统精髓与设计原理第三版.zip](https://pan.quark.cn/s/92d7a4c0c52f)
+[操作系统原理与设计.zip](https://pan.quark.cn/s/eb76e178c247)
+[并行计算导论.zip](https://pan.quark.cn/s/deef946394c2)
+[图解系统-亮白风格-小林coding-v1.0.zip](https://pan.quark.cn/s/f31341bdca9b)
+[并行计算——结构·算法·编程.陈国良.文字版.zip](https://pan.quark.cn/s/e10d6c709ff1)
+[并行算法的设计与分析.zip](https://pan.quark.cn/s/0672827eee2c)
+[图解操作系统.zip](https://pan.quark.cn/s/870b908ddcc3)
+[Orange's一个操作系统的实现.zip](https://pan.quark.cn/s/29335ad353a2)
+[分布式系统概念与设计 原书第5版.zip](https://pan.quark.cn/s/f239992e0ce4)
+[UNIX网络编程第二卷.pdf.zip](https://pan.quark.cn/s/d22a2db1a226)
+[UNIX编程艺术-中文版【The Art of UNIX Programming】.zip](https://pan.quark.cn/s/26c92c0918c9)
+[UNIX环境高级编程（第三版）.zip](https://pan.quark.cn/s/e8ced1584105)
+[30天自制操作系统.(川合秀实).周自恒.zip](https://pan.quark.cn/s/4f8a85e3ab80)
+[UNIX初级教程(完整书签版).zip](https://pan.quark.cn/s/b0a51bcd532f)
